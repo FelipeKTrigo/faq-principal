@@ -1,4 +1,0 @@
-# faq-principal
-
-
-perguntas frequentes
